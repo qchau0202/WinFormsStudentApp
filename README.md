@@ -1,1 +1,2 @@
-# lab04
+# WinFormsStudentApp
+For Software Engineering course only
